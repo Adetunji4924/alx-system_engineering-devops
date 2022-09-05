@@ -1,1 +1,1 @@
-This is a shell redirection
+2- A script that displays confused smiley
